@@ -1,6 +1,6 @@
 SUMMARY
 
-I spent a little under four hours on this, much of which was debating whether to store the setting in a single table, or use polymorphism across tables.  I ended up implementing all of the former and most of the latter, but the single-table design was far, far simpler to comprehend.
+I spent a little under 1 and half hour on this, much of which was debating whether to store the setting in a single table, or use polymorphism across tables.
 
 
 STORAGE
